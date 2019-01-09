@@ -1,0 +1,26 @@
+﻿@model WebApplication1.Models .Employee
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div> 
+        <form action="/employee/Edit" method="post">
+            <h1>员工编辑程序</h1>
+            姓名：<input type="text" name="Name"value="@Model.Name">
+            工资：<input type="text" name="Salary"value="@Model.Salary  ">
+            <input type="hidden"  name="EmployeeID" value="@Model.EmployeeID">
+            <input type="submit" name="BtnSubmit" value="修改">
+           
+            <input type="submit" name="BtnSubmit" value="取消">
+        </form>
+    </div>
+</body>
+</html>

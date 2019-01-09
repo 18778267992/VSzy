@@ -1,0 +1,5 @@
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

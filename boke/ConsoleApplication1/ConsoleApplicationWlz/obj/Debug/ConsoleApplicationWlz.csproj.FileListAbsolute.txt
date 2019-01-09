@@ -1,0 +1,10 @@
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\bin\Debug\ConsoleApplicationWlz.exe.config
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\bin\Debug\ConsoleApplicationWlz.exe
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\bin\Debug\ConsoleApplicationWlz.pdb
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\bin\Debug\EntityFramework.dll
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\bin\Debug\EntityFramework.SqlServer.dll
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\bin\Debug\EntityFramework.xml
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\bin\Debug\EntityFramework.SqlServer.xml
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\obj\Debug\ConsoleApplicationWlz.csprojResolveAssemblyReference.cache
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\obj\Debug\ConsoleApplicationWlz.exe
+D:\82韦兰左\MVC\kongzhitai\ConsoleApplication1\ConsoleApplicationWlz\obj\Debug\ConsoleApplicationWlz.pdb
